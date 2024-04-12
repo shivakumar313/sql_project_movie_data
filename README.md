@@ -6,7 +6,9 @@ Step-1 Connected to the database server using given IP Address, username, passwo
 
 *For the SQL queries have written the queries as follows
 *USE project_movie_database;
+
 * -- seeing all the data in the tables
+  
 *SELECT * FROM directors; 
 *SELECT * FROM movies;
 
@@ -14,6 +16,7 @@ Step-2
 QUERIES
 
 -- a) Can you get all data about movies?
+
 SELECT * FROM movies;
 
 -- b) How do you get all data about directors?
