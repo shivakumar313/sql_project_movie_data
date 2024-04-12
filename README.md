@@ -4,11 +4,11 @@ Steps followed are -
 
 Step-1 Connected to the database server using given IP Address, username, password
 
-For the SQL queries have written the queries as follows
-USE project_movie_database;
- -- seeing all the data in the tables
-SELECT * FROM directors; 
-SELECT * FROM movies;
+*For the SQL queries have written the queries as follows
+*USE project_movie_database;
+* -- seeing all the data in the tables
+*SELECT * FROM directors; 
+*SELECT * FROM movies;
 
 Step-2
 QUERIES
